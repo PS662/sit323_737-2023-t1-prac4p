@@ -1,0 +1,5 @@
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice","timestamp":"2023-04-02T11:18:20.341Z"}
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice","timestamp":"2023-04-02T11:18:20.357Z"}
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice","timestamp":"2023-04-02T11:18:20.372Z"}
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice","timestamp":"2023-04-02T11:18:20.387Z"}
+{"level":"error","message":"Attempted to divide by zero","service":"calculator-microservice","timestamp":"2023-04-02T11:18:20.394Z"}
